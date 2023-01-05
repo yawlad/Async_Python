@@ -1,0 +1,81 @@
+2023-01-05 13:47:22,810 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 13:47:22,811 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 13:47:22,811 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 13:47:22,824 INFO client.py Function <make_presense> was called from <main> function
+2023-01-05 13:47:22,837 INFO client.py Function <process_ans> was called from <main> function
+2023-01-05 13:47:22,837 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2023-01-05 13:47:24,635 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 13:47:24,635 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 13:47:24,636 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 13:47:24,649 INFO client.py Function <make_presense> was called from <main> function
+2023-01-05 13:47:24,651 INFO client.py Function <process_ans> was called from <main> function
+2023-01-05 13:47:24,651 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2023-01-05 15:27:37,936 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 15:27:37,936 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 15:27:39,964 ERROR client.py Connection refused: 127.0.0.1:7777
+2023-01-05 15:28:16,009 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 15:28:16,009 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 15:28:18,047 ERROR client.py Connection refused: 127.0.0.1:7777
+2023-01-05 15:36:11,880 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 15:36:11,880 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 15:36:11,881 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 15:36:11,891 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 15:36:11,903 INFO client.py Function <process_ans> was called from <connect> function
+2023-01-05 15:36:11,903 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2023-01-05 15:37:06,262 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 15:37:06,262 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 15:37:06,263 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 15:37:06,274 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 15:37:06,275 INFO client.py Function <process_ans> was called from <connect> function
+2023-01-05 15:37:06,275 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2023-01-05 16:19:19,234 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:19:19,234 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:19:19,249 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:19:39,116 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:19:39,117 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:19:39,129 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:19:42,938 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:20:43,672 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:20:43,672 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:20:43,684 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:20:47,088 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:21:07,263 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:21:15,557 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:21:15,557 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:21:15,569 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:21:18,991 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:21:18,991 ERROR client.py Connection lost: 127.0.0.1.
+2023-01-05 16:21:56,373 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:21:56,373 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:21:56,386 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:22:02,955 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:22:02,956 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:22:02,968 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:22:05,341 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:22:05,441 INFO client.py Message from: Guest:
+hi
+2023-01-05 16:22:05,441 INFO client.py Function <message_from_server> was called from <connect> function
+2023-01-05 16:22:19,020 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:22:19,116 INFO client.py Message from: Guest:
+hello
+2023-01-05 16:22:19,116 INFO client.py Function <message_from_server> was called from <connect> function
+2023-01-05 16:22:28,433 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 16:22:28,433 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 16:22:28,446 INFO client.py Function <make_presense> was called from <connect> function
+2023-01-05 16:22:31,938 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:22:32,154 INFO client.py Message from: Guest:
+hello
+2023-01-05 16:22:32,155 INFO client.py Function <message_from_server> was called from <connect> function
+2023-01-05 16:22:44,075 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:22:44,276 INFO client.py Message from: Guest:
+HUND
+2023-01-05 16:22:44,276 INFO client.py Function <message_from_server> was called from <connect> function
+2023-01-05 16:22:53,986 INFO client.py Function <create_message> was called from <connect> function
+2023-01-05 16:22:54,213 INFO client.py Message from: Guest:
+Li
+2023-01-05 16:22:54,215 INFO client.py Function <message_from_server> was called from <connect> function
+2023-01-05 16:24:14,020 ERROR client.py Connection lost: 127.0.0.1.

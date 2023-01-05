@@ -1,0 +1,88 @@
+2023-01-05 13:47:18,030 INFO server.py Port set to default 7777
+2023-01-05 13:47:18,031 INFO server.py Adress set to default 127.0.0.1
+2023-01-05 13:47:18,031 INFO server.py Trying to start server: 127.0.0.1:7777
+2023-01-05 13:47:18,031 INFO server.py Successfully started: 127.0.0.1:7777
+2023-01-05 13:47:22,824 INFO server.py Guest connected
+2023-01-05 13:47:22,825 INFO server.py Processing client request
+2023-01-05 13:47:22,825 INFO server.py Succsessfully processed
+2023-01-05 13:47:22,836 INFO server.py Function <process_client_request> was called from <main> function
+2023-01-05 13:47:24,650 INFO server.py Guest connected
+2023-01-05 13:47:24,650 INFO server.py Processing client request
+2023-01-05 13:47:24,650 INFO server.py Succsessfully processed
+2023-01-05 13:47:24,651 INFO server.py Function <process_client_request> was called from <main> function
+2023-01-05 15:36:05,539 INFO server.py Port set to default 7777
+2023-01-05 15:36:05,550 INFO server.py Adress set to default 
+2023-01-05 15:36:05,550 INFO server.py Trying to start server: :7777
+2023-01-05 15:36:05,550 INFO server.py Successfully started: :7777
+2023-01-05 15:36:11,892 INFO server.py Guest connected
+2023-01-05 15:36:11,892 INFO server.py Processing client request
+2023-01-05 15:36:11,892 INFO server.py Succsessfully processed
+2023-01-05 15:36:11,902 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 15:37:06,274 INFO server.py Guest connected
+2023-01-05 15:37:06,274 INFO server.py Processing client request
+2023-01-05 15:37:06,274 INFO server.py Succsessfully processed
+2023-01-05 15:37:06,274 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:17:31,329 INFO server.py Port set to default 7777
+2023-01-05 16:17:31,329 INFO server.py Adress set to default 
+2023-01-05 16:17:31,329 INFO server.py Trying to start server: :7777
+2023-01-05 16:17:31,330 INFO server.py Successfully started: :7777
+2023-01-05 16:19:13,129 INFO server.py Port set to default 7777
+2023-01-05 16:19:13,129 INFO server.py Adress set to default 
+2023-01-05 16:19:13,129 INFO server.py Trying to start server: :7777
+2023-01-05 16:19:13,129 INFO server.py Successfully started: :7777
+2023-01-05 16:19:19,235 INFO server.py Connected with ('127.0.0.1', 50124)
+2023-01-05 16:19:19,552 INFO server.py Processing client request
+2023-01-05 16:19:19,552 INFO server.py Succsessfully processed
+2023-01-05 16:19:19,570 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:19:39,117 INFO server.py Connected with ('127.0.0.1', 50127)
+2023-01-05 16:19:39,426 INFO server.py Processing client request
+2023-01-05 16:19:39,426 INFO server.py Succsessfully processed
+2023-01-05 16:19:39,427 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:19:43,145 INFO server.py Client ('127.0.0.1', 50127) disconnected.
+2023-01-05 16:20:43,672 INFO server.py Connected with ('127.0.0.1', 50145)
+2023-01-05 16:20:43,987 INFO server.py Processing client request
+2023-01-05 16:20:43,987 INFO server.py Succsessfully processed
+2023-01-05 16:20:43,989 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:20:47,396 INFO server.py Processing client request
+2023-01-05 16:20:47,396 INFO server.py Succsessfully processed
+2023-01-05 16:20:47,398 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:21:02,025 INFO server.py Port set to default 7777
+2023-01-05 16:21:02,025 INFO server.py Adress set to default 
+2023-01-05 16:21:02,025 INFO server.py Trying to start server: :7777
+2023-01-05 16:21:02,026 INFO server.py Successfully started: :7777
+2023-01-05 16:21:15,558 INFO server.py Connected with ('127.0.0.1', 50148)
+2023-01-05 16:21:15,866 INFO server.py Processing client request
+2023-01-05 16:21:15,867 INFO server.py Succsessfully processed
+2023-01-05 16:21:15,885 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:21:34,518 INFO server.py Client ('127.0.0.1', 50148) disconnected.
+2023-01-05 16:21:47,532 INFO server.py Port set to default 7777
+2023-01-05 16:21:47,532 INFO server.py Adress set to default 
+2023-01-05 16:21:47,532 INFO server.py Trying to start server: :7777
+2023-01-05 16:21:47,533 INFO server.py Successfully started: :7777
+2023-01-05 16:21:56,373 INFO server.py Connected with ('127.0.0.1', 50152)
+2023-01-05 16:21:56,682 INFO server.py Processing client request
+2023-01-05 16:21:56,683 INFO server.py Succsessfully processed
+2023-01-05 16:21:56,700 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:02,956 INFO server.py Connected with ('127.0.0.1', 50154)
+2023-01-05 16:22:03,258 INFO server.py Processing client request
+2023-01-05 16:22:03,258 INFO server.py Succsessfully processed
+2023-01-05 16:22:03,259 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:05,436 INFO server.py Processing client request
+2023-01-05 16:22:05,437 INFO server.py Succsessfully processed
+2023-01-05 16:22:05,439 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:19,111 INFO server.py Processing client request
+2023-01-05 16:22:19,112 INFO server.py Succsessfully processed
+2023-01-05 16:22:19,114 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:28,433 INFO server.py Connected with ('127.0.0.1', 50156)
+2023-01-05 16:22:28,742 INFO server.py Processing client request
+2023-01-05 16:22:28,743 INFO server.py Succsessfully processed
+2023-01-05 16:22:28,745 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:32,153 INFO server.py Processing client request
+2023-01-05 16:22:32,153 INFO server.py Succsessfully processed
+2023-01-05 16:22:32,154 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:44,271 INFO server.py Processing client request
+2023-01-05 16:22:44,272 INFO server.py Succsessfully processed
+2023-01-05 16:22:44,274 INFO server.py Function <process_client_request> was called from <start> function
+2023-01-05 16:22:54,206 INFO server.py Processing client request
+2023-01-05 16:22:54,207 INFO server.py Succsessfully processed
+2023-01-05 16:22:54,209 INFO server.py Function <process_client_request> was called from <start> function
