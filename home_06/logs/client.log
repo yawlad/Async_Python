@@ -1,0 +1,14 @@
+2023-01-05 13:47:22,810 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 13:47:22,811 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 13:47:22,811 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 13:47:22,824 INFO client.py Function <make_presense> was called from <main> function
+2023-01-05 13:47:22,837 INFO client.py Function <process_ans> was called from <main> function
+2023-01-05 13:47:22,837 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2023-01-05 13:47:24,635 INFO client.py Set settings to default: 127.0.0.1:7777.
+2023-01-05 13:47:24,635 INFO client.py Trying to connect to 127.0.0.1:7777.
+2023-01-05 13:47:24,636 INFO client.py Successfully connected to 127.0.0.1:7777.
+2023-01-05 13:47:24,649 INFO client.py Function <make_presense> was called from <main> function
+2023-01-05 13:47:24,651 INFO client.py Function <process_ans> was called from <main> function
+2023-01-05 13:47:24,651 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.

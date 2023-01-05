@@ -1,0 +1,12 @@
+2023-01-05 13:47:18,030 INFO server.py Port set to default 7777
+2023-01-05 13:47:18,031 INFO server.py Adress set to default 127.0.0.1
+2023-01-05 13:47:18,031 INFO server.py Trying to start server: 127.0.0.1:7777
+2023-01-05 13:47:18,031 INFO server.py Successfully started: 127.0.0.1:7777
+2023-01-05 13:47:22,824 INFO server.py Guest connected
+2023-01-05 13:47:22,825 INFO server.py Processing client request
+2023-01-05 13:47:22,825 INFO server.py Succsessfully processed
+2023-01-05 13:47:22,836 INFO server.py Function <process_client_request> was called from <main> function
+2023-01-05 13:47:24,650 INFO server.py Guest connected
+2023-01-05 13:47:24,650 INFO server.py Processing client request
+2023-01-05 13:47:24,650 INFO server.py Succsessfully processed
+2023-01-05 13:47:24,651 INFO server.py Function <process_client_request> was called from <main> function
